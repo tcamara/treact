@@ -1,0 +1,15 @@
+{
+  "name": "treact",
+  "version": "1.0.0",
+  "description": "A Trello clone built using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Camara",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcamara/treact"
+  }
+}
